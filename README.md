@@ -1,6 +1,7 @@
 # Calculator-Web-App
 Introducing the "Calculator Web App," a user-friendly web application meticulously crafted using HTML, Tailwind CSS, and JavaScript. This project elevates your online calculator experience by offering a robust set of features that empower users to effortlessly tackle basic arithmetic operations.
-#Key Features:
+
+#Key Features
 User-Friendly Interface: The calculator boasts a visually appealing and easy-to-navigate user interface, enhancing the user experience.
 
 Basic Arithmetic Operations: Users can perform common arithmetic operations, including addition, subtraction, multiplication, and division.
