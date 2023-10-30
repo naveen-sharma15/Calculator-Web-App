@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Roboto:wght@400;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgr{
+    background: linear-gradient(45deg,#0a0a0a,#3a4452);
+}
+.box_shawd{
+    box-shadow: 0px 3px 15px rgba(113,115,119,0.5);
+}
+.isshw{
+    box-shadow: 0px 3px 15px rgba(84,84,84,0.1);
+}
+input::placeholder{
+    color:white
+}
+.btn_shw{
+    box-shadow: -8px -8px 15px rgba(255,255,255,0.1);
+}
